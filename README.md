@@ -2,6 +2,12 @@
 
 Personal [Pi](https://github.com/earendil-works/pi) packages: extensions, skills, prompts, themes, and shared libraries.
 
+## Ongoing design
+
+The [Pi subagent specification wayfinding map](https://github.com/S2P2/pi-packages/issues/1) tracks the current planning effort. Continue from the map's native child issues and blocking relationships; GitHub issue resolutions are the canonical decisions, not a local draft spec.
+
+The [design baseline](https://github.com/S2P2/pi-packages/issues/2) captures agreements from the initial discussion. Supporting notes live in `docs/research/`; background research findings are linked from their tickets on `research/pi-subagent-*` branches. No subagent package implementation has started.
+
 ## Setup
 
 Requires Node.js 22.19+ and npm 11.
